@@ -1,0 +1,29 @@
+{
+  "name": "Fabian",
+  "short_name": "Portafolio",
+  "description": "Bienvenid@s a Portafolio",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/4.jpg",
+      "sizes": "44x44",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./img/2.jpg",
+      "sizes": "44x44",
+      "type": "image/jpg"
+    },
+    {
+      "src": "./img/3.jpg",
+      "sizes": "32x32",
+      "type": "image/jpg"
+    }
+  ]
+}
